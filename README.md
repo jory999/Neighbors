@@ -134,7 +134,7 @@ rt
 	mso-font-charset:134;
 	mso-char-type:none;}
 -->
-</style>
+
 </head>
 
 <body>
